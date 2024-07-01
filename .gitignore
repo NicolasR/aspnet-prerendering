@@ -1,8 +1,4 @@
 /typings/
 /node_modules/
-/**/*.js
-
-/**/.d.ts
-!/src/**/*.d.ts
 
 yarn.lock
